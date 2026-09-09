@@ -1,0 +1,14 @@
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pillow>=10.0
+opencv-python-headless>=4.9
+python-dotenv>=1.0
+streamlit>=1.32
+pandas>=2.2
+pyarrow>=14.0
+fastparquet>=2024.2.0
+google-genai>=1.0
+jsonschema>=4.21
+matplotlib>=3.8
+jupyter>=1.0
+ipykernel>=6.29
